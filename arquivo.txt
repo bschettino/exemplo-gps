@@ -1,2 +1,2 @@
 Teste
-Arquivo foi editado
+Arquivo foi alterado
